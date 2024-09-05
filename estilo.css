@@ -1,0 +1,105 @@
+body{
+    background-color: black;
+}
+.Contenedor1{
+    background-color: lightgrey;
+    width: 70%;
+    margin-left: 300px;
+    margin-top: 95px;
+    margin-right: 300px;
+    height: 450px;
+}
+.Contenedor2{
+    background-color: lightgrey;
+    width: 90%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 70px;
+    height: 290px;
+}
+.Contenedor3{
+    background-color: lightgrey;
+    margin-left: 99px;
+    margin-right: 90px;
+    margin-top: 4em;
+    width: 21%;
+    height: 90px;
+    vertical-align: bottom;
+
+}
+.Contenedor4{
+    background-color: lightgrey;
+    margin-left: 35.5%;
+    margin-right: auto;
+    margin-top: -86px;
+    width: 60%;
+    height: 180px;
+    vertical-align: bottom;
+}
+.Contenedor5{
+    background-color: lightgrey;
+    margin-left:  99px;;
+    margin-right: 90px;
+    margin-top: 60px;
+    width: 21%;
+    height: 90px
+}
+.Contenedor6{
+    background-color: lightgrey;
+    margin-left: 35.5%;
+    margin-right: auto;
+    margin-top: -86px;
+    width: 60%;
+    height: 180px
+}
+
+.Contenedor7{
+    background-color: lightgrey;
+    margin-left: 90px;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 21%;
+    height: 80px;
+    vertical-align: bottom;
+}
+
+.Contenedor8{
+    background-color: lightgrey;
+    margin-left: 600px;
+    margin-right: 100px;
+    margin-top: -90px;
+    width: 63%;
+    height: 180px
+}
+.Contenedor9{
+    background-color: lightgrey;
+    margin-left:  99px;;
+    margin-right: 90px;
+    margin-top: 60px;
+    width: 23%;
+    height: 90px
+}
+.Contenedor10{
+    background-color: lightgrey;
+    margin-left: 35.5%;
+    margin-right: auto;
+    margin-top: -85px;
+    width: 60%;
+    height: 180px
+}
+.Contenedor11{
+    background-color: lightgrey;
+    margin-left:  99px;;
+    margin-right: 90px;
+    margin-top: 60px;
+    width: 25%;
+    height: 90px
+}
+.Contenedor12{
+    background-color: lightgrey;
+    margin-left: 35.5%;
+    margin-right: auto;
+    margin-top: -86px;
+    width: 60%;
+    height: 80px
+}
